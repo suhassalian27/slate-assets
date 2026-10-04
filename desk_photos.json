@@ -14,9 +14,9 @@
         },
         {
           "id": "min_02",
-          "title": "Geometric Arch",
-          "location": "Monochrome Concrete",
-          "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80"
+            "title": "Pink Dunes",
+            "location": "Aperture Vintage",
+          "url": "https://images.unsplash.com/photo-1692890846581-da1a95435f34?q=80&w=1335"
         },
         {
           "id": "min_03",
@@ -45,25 +45,37 @@
         },
         {
           "id": "nat_02",
-          "title": "Misty Conifer Ridge",
-          "location": "Faroe Islands",
-          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1920&q=80"
+          "title": "Autumn Road",
+          "location": "King City, Canada",
+          "url": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891?q=80&w=1740"
         },
         {
           "id": "nat_03",
-          "title": "Alpine Solitude",
-          "location": "Dolomites, Italy",
-          "url": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?auto=format&fit=crop&w=1920&q=80"
+          "title": "Pine Canopy Mist",
+          "location": "Adjara, Georgia",
+          "url": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?q=80&w=1748"
         },
         {
           "id": "nat_04",
-          "title": "Emerald Rain Canopy",
-          "location": "Olympic National Park",
-          "url": "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=1920&q=80"
+          "title": "Bachalpsee Reflections",
+          "location": "Grindelwald, Switzerland",
+          "url": "https://images.unsplash.com/photo-1762386084184-022a12e08b37?q=80&w=1828"
+        },
+        {
+          "id": "nat_05",
+          "title": "Lago di Braies",
+          "location": "Pragser Wildsee, Italy",
+          "url": "https://images.unsplash.com/photo-1537387788952-cffe9f8d3090?q=80&w=1740"
+        },
+        {
+          "id": "nat_06",
+          "title": "Valley Monoliths",
+          "location": "Yosemite Valley, USA",
+          "url": "https://images.unsplash.com/photo-1516687401797-25297ff1462c?q=80&w=1740"
         }
       ]
     },
-    {
+ {
       "id": "SEASCAPES",
       "label": "Seascapes",
       "previewUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=480&q=75",
@@ -76,40 +88,64 @@
         },
         {
           "id": "sea_02",
-          "title": "Atlantic Crest",
-          "location": "Faroe Islands Coast",
-          "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1920&q=80"
+          "title": "Sunset Swell",
+          "location": "Cancún, Mexico",
+          "url": "https://images.unsplash.com/photo-1745874657476-066ff381da8c?q=80&w=1740"
         },
         {
           "id": "sea_03",
-          "title": "Misty Shore Break",
-          "location": "Oregon Coastline",
-          "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?auto=format&fit=crop&w=1920&q=80"
+          "title": "Coastal Flight",
+          "location": "San Diego, USA",
+          "url": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?q=80&w=1744"
+        },
+        {
+          "id": "sea_04",
+          "title": "Solitary Sail",
+          "location": "Cinque Terre, Italy",
+          "url": "https://images.unsplash.com/photo-1651613186173-d7a79a78c971?q=80&w=774"
+        },
+        {
+        "id": "sea_05",
+        "title": "Dawn Wave",
+        "location": "Tasmania, Australia",
+          "url": "https://images.unsplash.com/photo-1679471491129-9e2f3ea6ec3f?q=80&w=1740"
         }
       ]
-    },
-    {
+   } ,
+  {
       "id": "ARCHITECTURE",
       "label": "Architecture",
-      "previewUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=480&q=75",
+      "previewUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=480&q=75",
       "photos": [
         {
           "id": "arc_01",
-          "title": "Concrete Vault VII",
-          "location": "Berlin, Germany",
-          "url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1920&q=80"
-        },
-        {
-          "id": "arc_02",
           "title": "Modernist Monolith",
           "location": "Financial District",
           "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1920&q=80"
         },
         {
+          "id": "arc_02",
+          "title": "Walt Disney Concert Hall",
+          "location": "Los Angeles, USA",
+          "url": "https://images.unsplash.com/photo-1460647847717-b1b1fa4f1092?q=80&w=1740"
+        },
+        {
           "id": "arc_03",
-          "title": "Spiral Gallery",
-          "location": "London, UK",
-          "url": "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?auto=format&fit=crop&w=1920&q=80"
+          "title": "Geometric Facade",
+          "location": "Lyon, France",
+          "url": "https://images.unsplash.com/photo-1658148900060-3be4ae9abb79?q=80&w=1740"
+        },
+        {
+          "id": "arc_04",
+          "title": "Disc Architecture",
+          "location": "Birmingham, UK",
+          "url": "https://images.unsplash.com/photo-1573401351970-f6b580893db2?q=80&w=1740"
+        },
+        {
+          "id": "arc_05",
+          "title": "Minimal Grid Pavilion",
+          "location": "Los Angeles, USA",
+          "url": "https://images.unsplash.com/photo-1483366774565-c783b9f70e2c?q=80&w=1740"
         }
       ]
     },
