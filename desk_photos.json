@@ -2,37 +2,6 @@
   "version": 1,
   "collections": [
     {
-      "id": "MINIMAL",
-      "label": "Minimal",
-      "previewUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=480&q=75",
-      "photos": [
-        {
-          "id": "min_01",
-          "title": "Organic Form I",
-          "location": "Studio Matte Clay",
-          "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1920&q=80"
-        },
-        {
-          "id": "min_02",
-            "title": "Pink Dunes",
-            "location": "Aperture Vintage",
-          "url": "https://images.unsplash.com/photo-1692890846581-da1a95435f34?q=80&w=1335"
-        },
-        {
-          "id": "min_03",
-          "title": "Cavity & Shadow",
-          "location": "Matte Neutral Render",
-          "url": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?auto=format&fit=crop&w=1920&q=80"
-        },
-        {
-          "id": "min_04",
-          "title": "Curved Monolith",
-          "location": "Warm Grey Volume",
-          "url": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?auto=format&fit=crop&w=1920&q=80"
-        }
-      ]
-    },
-    {
       "id": "NATURE",
       "label": "Nature",
       "previewUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=480&q=75",
@@ -75,7 +44,148 @@
         }
       ]
     },
- {
+    {
+      "id": "WILDLIFE",
+      "label": "Wildlife",
+      "previewUrl": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "wl_01",
+          "title": "Brown Fox on Snow Field",
+          "location": "Lanoka Harbor, Berkeley Township, New Jersey, United States",
+          "url": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "wl_02",
+          "title": "Brown Deer on Road Under Gray Sky",
+          "location": "Glen Etive, Scotland, United Kingdom",
+          "url": "https://images.unsplash.com/photo-1543782248-03e2c5a93e18?q=80&w=2671"
+        },
+        {
+          "id": "wl_03",
+          "title": "White Wolf on Snow Covered Ground During Daytime",
+          "location": "Tomsk, Siberia, Russia",
+          "url": "https://images.unsplash.com/photo-1624449423341-8f348ff0e30f?q=80&w=2671"
+        },
+        {
+          "id": "wl_04",
+          "title": "Two Grey Elephants on Grass Plains During Sunset",
+          "location": "Chobe National Park, Botswana",
+          "url": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?q=80&w=2677"
+        },
+        {
+          "id": "wl_05",
+          "title": "Brown Leopard on Top of Grey Rock",
+          "location": "Kruger National Park, South Africa",
+          "url": "https://images.unsplash.com/photo-1534759846116-5799c33ce22a?q=80&w=2550"
+        },
+        {
+          "id": "wl_06",
+          "title": "Horses Keeping Each Other Warm",
+          "location": "Iceland",
+          "url": "https://images.unsplash.com/photo-1494564701117-a2c9d6c66ada?q=80&w=2670"
+        },
+        {
+          "id": "wl_07",
+          "title": "Zebras in Ngorongoro Crater",
+          "location": "Ngorongoro Crater, Tanzania",
+          "url": "https://images.unsplash.com/photo-1516494982030-fda424f96b59?q=80&w=2574"
+        },
+        {
+          "id": "wl_08",
+          "title": "Snow Leopard in the Rain",
+          "location": "Kolmården Zoo, Kolmården, Sweden",
+          "url": "https://images.unsplash.com/photo-1526289636136-bce3fd37f962?q=80&w=2670"
+        },
+        {
+          "id": "wl_09",
+          "title": "Tule Elk on Green Grass During Daytime",
+          "location": "Point Reyes National Seashore, California, United States",
+          "url": "https://images.unsplash.com/photo-1629837269770-6fc6ae786837?q=80&w=2670"
+        },
+        {
+          "id": "wl_10",
+          "title": "Brown Lion Lying on Green Grass During Daytime",
+          "location": "South Africa",
+          "url": "https://images.unsplash.com/photo-1583587067350-2c49115673c9?q=80&w=2670"
+        }
+      ]
+    },
+    {
+      "id": "COSMOS",
+      "label": "Cosmos",
+      "previewUrl": "https://images.unsplash.com/photo-1464802686167-b939a6910659?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "cos_01",
+          "title": "Silhouette Photography of Person",
+          "location": "Spiral Jetty, United States",
+          "url": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2670"
+        },
+        {
+          "id": "cos_02",
+          "title": "Stars Galaxy Rocky Mountain",
+          "location": "Rocky Mountain National Park, United States",
+          "url": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=2678"
+        },
+        {
+          "id": "cos_03",
+          "title": "Snow Mountain Under Stars",
+          "location": "Moena, Italy",
+          "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=2670"
+        },
+        {
+          "id": "cos_04",
+          "title": "Rock Mountain During Starry Night",
+          "location": "Joshua Tree, United States",
+          "url": "https://images.unsplash.com/photo-1497294815431-9365093b7331?q=80&w=2670"
+        },
+        {
+          "id": "cos_05",
+          "title": "A Mountain with a Star Trail in the Sky",
+          "location": "Pico do Arieiro, Portugal",
+          "url": "https://images.unsplash.com/photo-1736416019800-7133b4dfa6f1?q=80&w=2670"
+        }
+      ]
+    },
+    {
+      "id": "CITY_NIGHT",
+      "label": "City Night",
+      "previewUrl": "https://images.unsplash.com/photo-1498036882173-b41c28a8ba34?q=80&w=480",
+      "photos": [
+        {
+          "id": "cn_01",
+          "title": "Timelapse Photography of Vehicles and Buildings",
+          "location": "Tokyo, Japan",
+          "url": "https://images.unsplash.com/photo-1498036882173-b41c28a8ba34?q=80&w=2400"
+        },
+        {
+          "id": "cn_02",
+          "title": "An Aerial View of a City at Night",
+          "location": "Toronto, Ontario, Canada",
+          "url": "https://images.unsplash.com/photo-1690498705913-1d498ad731ef?q=80&w=2671"
+        },
+        {
+          "id": "cn_03",
+          "title": "Night in the City of Shanghai",
+          "location": "Shanghai, China",
+          "url": "https://images.unsplash.com/photo-1513061379709-ef0cd1695189?q=80&w=2719"
+        },
+        {
+          "id": "cn_04",
+          "title": "Dubai Skyline at Night",
+          "location": "Dubai, United Arab Emirates",
+          "url": "https://images.unsplash.com/flagged/photo-1559717201-fbb671ff56b7?q=80&w=2671"
+        },
+        {
+          "id": "cn_05",
+          "title": "Manhattan Skyline from the Manhattan Bridge",
+          "location": "Manhattan, New York, NY, USA",
+          "url": "https://images.unsplash.com/photo-1621351032388-1d4ddb37cfbb?q=80&w=2564"
+        }
+      ]
+    },
+    {
       "id": "SEASCAPES",
       "label": "Seascapes",
       "previewUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=480&q=75",
@@ -105,14 +215,39 @@
           "url": "https://images.unsplash.com/photo-1651613186173-d7a79a78c971?q=80&w=774"
         },
         {
-        "id": "sea_05",
-        "title": "Dawn Wave",
-        "location": "Tasmania, Australia",
+          "id": "sea_05",
+          "title": "Dawn Wave",
+          "location": "Tasmania, Australia",
           "url": "https://images.unsplash.com/photo-1679471491129-9e2f3ea6ec3f?q=80&w=1740"
         }
       ]
-   } ,
-  {
+    },
+    {
+      "id": "GOLDEN_HOUR",
+      "label": "Golden Hour",
+      "previewUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "gld_01",
+          "title": "Amber Horizon Line",
+          "location": "Serengeti Plains",
+          "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "gld_02",
+          "title": "Dusk Over Ridge",
+          "location": "Tuscany, Italy",
+          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "gld_03",
+          "title": "Golden Valley Mist",
+          "location": "Hřensko, Czechia",
+          "url": "https://images.unsplash.com/photo-1490682143684-14369e18dce8?q=80&w=1740"
+        }
+      ]
+    },
+    {
       "id": "ARCHITECTURE",
       "label": "Architecture",
       "previewUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=480&q=75",
@@ -150,170 +285,35 @@
       ]
     },
     {
-  "id": "COSMOS",
-  "label": "Cosmos",
-  "previewUrl": "https://images.unsplash.com/photo-1464802686167-b939a6910659?auto=format&fit=crop&w=480&q=75",
-  "photos": [
-    {
-      "id": "cos_01",
-      "title": "Silhouette Photography of Person",
-      "location": "Spiral Jetty, United States",
-      "url": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2670"
-    },
-    {
-      "id": "cos_02",
-      "title": "Stars Galaxy Rocky Mountain",
-      "location": "Rocky Mountain National Park, United States",
-      "url": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=2678"
-    },
-    {
-      "id": "cos_03",
-      "title": "Snow Mountain Under Stars",
-      "location": "Moena, Italy",
-      "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=2670"
-    },
-    {
-      "id": "cos_04",
-      "title": "Rock Mountain During Starry Night",
-      "location": "Joshua Tree, United States",
-      "url": "https://images.unsplash.com/photo-1497294815431-9365093b7331?q=80&w=2670"
-    },
-    {
-      "id": "cos_05",
-      "title": "A Mountain with a Star Trail in the Sky",
-      "location": "Pico do Arieiro, Portugal",
-      "url": "https://images.unsplash.com/photo-1736416019800-7133b4dfa6f1?q=80&w=2670"
-    }
-  ]
-},
-    {
-      "id": "GOLDEN_HOUR",
-      "label": "Golden Hour",
-      "previewUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=480&q=75",
+      "id": "MINIMAL",
+      "label": "Minimal",
+      "previewUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=480&q=75",
       "photos": [
         {
-          "id": "gld_01",
-          "title": "Amber Horizon Line",
-          "location": "Serengeti Plains",
-          "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80"
+          "id": "min_01",
+          "title": "Organic Form I",
+          "location": "Studio Matte Clay",
+          "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1920&q=80"
         },
         {
-          "id": "gld_02",
-          "title": "Dusk Over Ridge",
-          "location": "Tuscany, Italy",
-          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1920&q=80"
+          "id": "min_02",
+          "title": "Pink Dunes",
+          "location": "Aperture Vintage",
+          "url": "https://images.unsplash.com/photo-1692890846581-da1a95435f34?q=80&w=1335"
         },
         {
-          "id": "gld_03",
-          "title": "Golden Valley Mist",
-          "location": "Hřensko, Czechia",
-          "url": "https://images.unsplash.com/photo-1490682143684-14369e18dce8?q=80&w=1740"
+          "id": "min_03",
+          "title": "Cavity & Shadow",
+          "location": "Matte Neutral Render",
+          "url": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "min_04",
+          "title": "Curved Monolith",
+          "location": "Warm Grey Volume",
+          "url": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?auto=format&fit=crop&w=1920&q=80"
         }
       ]
-    },
-   {
-  "id": "CITY_NIGHT",
-  "label": "City Night",
-  "previewUrl": "https://images.unsplash.com/photo-1498036882173-b41c28a8ba34?q=80&w=480",
-  "photos": [
-    {
-      "id": "cn_01",
-      "title": "Timelapse Photography of Vehicles and Buildings",
-      "location": "Tokyo, Japan",
-      "url": "https://images.unsplash.com/photo-1498036882173-b41c28a8ba34?q=80&w=2400"
-    },
-    {
-      "id": "cn_02",
-      "title": "An Aerial View of a City at Night",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://images.unsplash.com/photo-1690498705913-1d498ad731ef?q=80&w=2671"
-    },
-    {
-      "id": "cn_03",
-      "title": "Night in the City of Shanghai",
-      "location": "Shanghai, China",
-      "url": "https://images.unsplash.com/photo-1513061379709-ef0cd1695189?q=80&w=2719"
-    },
-    {
-      "id": "cn_04",
-      "title": "Dubai Skyline at Night",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://images.unsplash.com/flagged/photo-1559717201-fbb671ff56b7?q=80&w=2671"
-    },
-    {
-      "id": "cn_05",
-      "title": "Manhattan Skyline from the Manhattan Bridge",
-      "location": "Manhattan, New York, NY, USA",
-      "url": "https://images.unsplash.com/photo-1621351032388-1d4ddb37cfbb?q=80&w=2564"
     }
-  ]
-},
-   {
-  "id": "WILDLIFE",
-  "label": "Wildlife",
-  "previewUrl": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?auto=format&fit=crop&w=480&q=75",
-  "photos": [
-    {
-      "id": "wl_01",
-      "title": "Brown Fox on Snow Field",
-      "location": "Lanoka Harbor, Berkeley Township, New Jersey, United States",
-      "url": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?auto=format&fit=crop&w=1920&q=80"
-    },
-    {
-      "id": "wl_02",
-      "title": "Brown Deer on Road Under Gray Sky",
-      "location": "Glen Etive, Scotland, United Kingdom",
-      "url": "https://images.unsplash.com/photo-1543782248-03e2c5a93e18?q=80&w=2671"
-    },
-    {
-      "id": "wl_03",
-      "title": "White Wolf on Snow Covered Ground During Daytime",
-      "location": "Tomsk, Siberia, Russia",
-      "url": "https://images.unsplash.com/photo-1624449423341-8f348ff0e30f?q=80&w=2671"
-    },
-    {
-      "id": "wl_04",
-      "title": "Two Grey Elephants on Grass Plains During Sunset",
-      "location": "Chobe National Park, Botswana",
-      "url": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?q=80&w=2677"
-    },
-    {
-      "id": "wl_05",
-      "title": "Brown Leopard on Top of Grey Rock",
-      "location": "Kruger National Park, South Africa",
-      "url": "https://images.unsplash.com/photo-1534759846116-5799c33ce22a?q=80&w=2550"
-    },
-    {
-      "id": "wl_06",
-      "title": "Horses Keeping Each Other Warm",
-      "location": "Iceland",
-      "url": "https://images.unsplash.com/photo-1494564701117-a2c9d6c66ada?q=80&w=2670"
-    },
-    {
-      "id": "wl_07",
-      "title": "Zebras in Ngorongoro Crater",
-      "location": "Ngorongoro Crater, Tanzania",
-      "url": "https://images.unsplash.com/photo-1516494982030-fda424f96b59?q=80&w=2574"
-    },
-    {
-      "id": "wl_08",
-      "title": "Snow Leopard in the Rain",
-      "location": "Kolmården Zoo, Kolmården, Sweden",
-      "url": "https://images.unsplash.com/photo-1526289636136-bce3fd37f962?q=80&w=2670"
-    },
-    {
-      "id": "wl_09",
-      "title": "Tule Elk on Green Grass During Daytime",
-      "location": "Point Reyes National Seashore, California, United States",
-      "url": "https://images.unsplash.com/photo-1629837269770-6fc6ae786837?q=80&w=2670"
-    },
-    {
-      "id": "wl_10",
-      "title": "Brown Lion Lying on Green Grass During Daytime",
-      "location": "South Africa",
-      "url": "https://images.unsplash.com/photo-1583587067350-2c49115673c9?q=80&w=2670"
-    }
-  ]
-}
   ]
 }
