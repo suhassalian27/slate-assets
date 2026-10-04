@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "MINIMAL",
+      "label": "Minimal 3D",
+      "previewUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "min_01",
+          "title": "Organic Form I",
+          "location": "Studio Matte Clay",
+          "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "min_02",
+          "title": "Geometric Arch",
+          "location": "Monochrome Concrete",
+          "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "min_03",
+          "title": "Cavity & Shadow",
+          "location": "Matte Neutral Render",
+          "url": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "min_04",
+          "title": "Curved Monolith",
+          "location": "Warm Grey Volume",
+          "url": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?auto=format&fit=crop&w=1920&q=80"
+        }
+      ]
+    },
+    {
+      "id": "NATURE",
+      "label": "Nature",
+      "previewUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "nat_01",
+          "title": "Yosemite Valley Mist",
+          "location": "California, USA",
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "nat_02",
+          "title": "Misty Conifer Ridge",
+          "location": "Faroe Islands",
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "nat_03",
+          "title": "Alpine Solitude",
+          "location": "Dolomites, Italy",
+          "url": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "nat_04",
+          "title": "Emerald Rain Canopy",
+          "location": "Olympic National Park",
+          "url": "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=1920&q=80"
+        }
+      ]
+    },
+    {
+      "id": "SEASCAPES",
+      "label": "Seascapes",
+      "previewUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "sea_01",
+          "title": "Pacific Coastal Drift",
+          "location": "Big Sur, California",
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "sea_02",
+          "title": "Atlantic Crest",
+          "location": "Faroe Islands Coast",
+          "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "sea_03",
+          "title": "Misty Shore Break",
+          "location": "Oregon Coastline",
+          "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?auto=format&fit=crop&w=1920&q=80"
+        }
+      ]
+    },
+    {
+      "id": "ARCHITECTURE",
+      "label": "Architecture",
+      "previewUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "arc_01",
+          "title": "Concrete Vault VII",
+          "location": "Berlin, Germany",
+          "url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "arc_02",
+          "title": "Modernist Monolith",
+          "location": "Financial District",
+          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "arc_03",
+          "title": "Spiral Gallery",
+          "location": "London, UK",
+          "url": "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?auto=format&fit=crop&w=1920&q=80"
+        }
+      ]
+    },
+    {
+      "id": "COSMOS",
+      "label": "Cosmos",
+      "previewUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "cos_01",
+          "title": "Earth Limb Horizon",
+          "location": "Low Earth Orbit",
+          "url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "cos_02",
+          "title": "Carina Core Reflection",
+          "location": "Deep Space Observatory",
+          "url": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "cos_03",
+          "title": "Atmospheric Aurora",
+          "location": "Northern Sky",
+          "url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1920&q=80"
+        }
+      ]
+    },
+    {
+      "id": "GOLDEN_HOUR",
+      "label": "Golden Hour",
+      "previewUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "gld_01",
+          "title": "Amber Horizon Line",
+          "location": "Serengeti Plains",
+          "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "gld_02",
+          "title": "Dusk Over Ridge",
+          "location": "Tuscany, Italy",
+          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "gld_03",
+          "title": "Quiet Twilight Dune",
+          "location": "Namib Desert",
+          "url": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1920&q=80"
+        }
+      ]
+    },
+    {
+      "id": "CITY_NIGHTS",
+      "label": "City Nights",
+      "previewUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "cty_01",
+          "title": "Rain-Slicked Golden Gai",
+          "location": "Shinjuku, Tokyo",
+          "url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "cty_02",
+          "title": "Midnight Alley Transit",
+          "location": "Chongqing, China",
+          "url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "cty_03",
+          "title": "Urban Horizon Neon",
+          "location": "Hong Kong Island",
+          "url": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=1920&q=80"
+        }
+      ]
+    },
+    {
+      "id": "WILDLIFE",
+      "label": "Wildlife",
+      "previewUrl": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?auto=format&fit=crop&w=480&q=75",
+      "photos": [
+        {
+          "id": "wld_01",
+          "title": "Forest Solitude",
+          "location": "Scottish Highlands",
+          "url": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "wld_02",
+          "title": "Soaring Hawk",
+          "location": "Rockies, Canada",
+          "url": "https://images.unsplash.com/photo-1484406566174-9da000fda645?auto=format&fit=crop&w=1920&q=80"
+        },
+        {
+          "id": "wld_03",
+          "title": "Alpine Ibex Ridge",
+          "location": "Swiss Alps",
+          "url": "https://images.unsplash.com/photo-1535083783855-76ae62b2914e?auto=format&fit=crop&w=1920&q=80"
+        }
+      ]
+    }
+  ]
+}
